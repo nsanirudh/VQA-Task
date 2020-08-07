@@ -1,6 +1,22 @@
 # Visual-Question-Answering-Task
 ## This project was completed as a part of the Neural Networks and Fuzzy logic course(BITS-F312) conduted in BITS Pilani, Goa.
 
+## 1.0 Source code:
+pickle files will be created in the IPython notebook which accesses the CLEVR Dataset.
+### Dataset: https://cs.stanford.edu/people/jcjohns/clevr/ 
+* The dataset is a modified and smaller version of the above dataset.
+ 
+### relevant files:
+* glove.6B.200d.txt (https://www.kaggle.com/incorpes/glove6b200d)
+* Quest_Answers.json
+* image_dict_V2.pickle
+* label_encoder.pickle
+* embedding_matrix.pickle
+* word_index.pickle
+
+Git does not allow an upload of files >100mb hence all files are not available.
+
+## 2.0  Summary
 A model combining Computer vision and natural language processing
 
 The dataset provided is a modification of the CLEVR dataset. It consists of a collection of synthesized images and a set of questions associated with each image. Your task is to predict the answers to these questions. It has about 15000 images and 135000 questions and answers for training. Most images have about 10 questions associated with them, however, some images don’t have any questions associated with them.The images contain simple 3D objects with each object having one of the 96 property profiles obtained by picking one choice each from the following four types:
