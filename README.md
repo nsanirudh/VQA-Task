@@ -2,6 +2,8 @@
 ## This project was completed as a part of the Neural Networks and Fuzzy logic course(BITS-F312) conduted in BITS Pilani, Goa.
 
 ## 1.0 Source code:
+**All the code is in the VQA Model.ipynb**
+
 pickle files will be created in the IPython notebook which accesses the CLEVR Dataset.
 ### Dataset: https://cs.stanford.edu/people/jcjohns/clevr/ 
 * The dataset is a modified and smaller version of the above dataset.
